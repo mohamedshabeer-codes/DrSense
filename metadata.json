@@ -1,0 +1,7 @@
+{
+  "name": "DrSense",
+  "description": "AI-Powered On-Device Personal Health Monitoring & Early Warning System for Disaster Resilience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
